@@ -43,7 +43,7 @@
       </td>
       <td align="center" width="100">
         <a href="https://tryhackme.com/p/WilliamGiftson" target="_blank">
-          <img src="https://repository-images.githubusercontent.com/518509014/f7450454-158c-45e0-8b38-0c0ae4d7394c" alt="TryHackMe" width="45" height="45" />
+          <img src="https://friconix.com/jpg/fi-snsuxx-tryhackme.jpg" alt="TryHackMe" width="45" height="45" />
         </a>
         <br>TryHackMe
       </td>
