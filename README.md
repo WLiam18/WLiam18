@@ -55,65 +55,79 @@
     <!-- Row 1 -->
     <tr>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="45" height="45" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" alt="HTML" width="45" height="45" />
         <br>HTML
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="45" height="45" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg" alt="CSS" width="45" height="45" />
         <br>CSS
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="45" height="45" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" alt="JavaScript" width="45" height="45" />
         <br>JavaScript
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/git.svg" alt="Git" width="45" height="45" />
         <br>Git
       </td>
     </tr>
     <!-- Row 2 -->
     <tr>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" alt="GitHub" width="45" height="45" />
         <br>GitHub
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" height="45" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mysql.svg" alt="MySQL" width="45" height="45" />
         <br>SQL
+      </td>
+      <td align="center" width="100">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apple-Light.svg?raw=true" alt="Apple" width="45" height="45" />
+        <br>Apple
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/metasploit.svg" alt="Metasploit" width="45" height="45" />
+        <br>Metasploit
       </td>
     </tr>
     <!-- Row 3 -->
     <tr>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=metasploit" alt="Metasploit" width="45" height="45" />
-        <br>Metasploit
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=nmap" alt="Nmap" width="45" height="45" />
+        <img src="https://github.com/bwks/vendor-icons-svg/blob/master/nmap-logo.svg?raw=true" alt="Nmap" width="45" height="45" />
         <br>Nmap
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=burpsuite" alt="Burp Suite" width="45" height="45" />
+        <img src="https://github.com/bwks/vendor-icons-svg/blob/master/wireshark.svg?raw=true" alt="Wireshark" width="45" height="45" />
+        <br>Wireshark
+      </td>
+      <td align="center" width="100">
+        <img src="https://www.streamlinehq.com/icons/download/burpsuite--31088?raw=true" alt="Burp Suite" width="45" height="45" />
         <br>Burp Suite
+      </td>
+      <td align="center" width="100">
+        <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="Hydra" width="45" height="45" />
+        <br>Hydra
       </td>
     </tr>
     <!-- Row 4 -->
     <tr>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=wireshark" alt="Wireshark" width="45" height="45" />
-        <br>Wireshark
+        <img src="https://github.com/bwks/vendor-icons-svg/blob/master/windows-generic.svg?raw=true" alt="Windows" width="45" height="45" />
+        <br>Windows
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" width="45" height="45" />
-        <br>Kali Linux
+        <!-- Empty cell if you don't need another tool -->
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=hydra" alt="Hydra" width="45" height="45" />
-        <br>Hydra
+        <!-- Empty cell if you don't need another tool -->
+      </td>
+      <td align="center" width="100">
+        <!-- Empty cell if you don't need another tool -->
       </td>
     </tr>
   </table>
 </div>
+
 
 
 <h3 align="center"><samp>📟 GitHub Stats</samp></h3>
