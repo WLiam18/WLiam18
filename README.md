@@ -49,7 +49,7 @@
     <!-- Row 1 -->
     <tr>
       <td align="center" width="100">
-        <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)" alt="HTML" width="45" height="45" />
+        <img src="[61/HTML5_logo_and_wordmark.svg)](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)" alt="HTML" width="45" height="45" />
         <br>HTML
       </td>
       <td align="center" width="100">
