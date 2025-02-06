@@ -40,7 +40,7 @@
       </td>
       <td align="center" width="100">
         <a href="https://tryhackme.com/p/WilliamGiftson" target="_blank">
-          <img src="https://skillicons.dev/icons?i=tryhackme" alt="TryHackMe" width="45" height="45" />
+          <img src="[https://skillicons.dev/icons?i=tryhackme](https://www.cems.uwe.ac.uk/~jd7-white/images/THMlogo.png)" alt="TryHackMe" width="45" height="45" />
         </a>
         <br>TryHackMe
       </td>
@@ -55,7 +55,9 @@
     <!-- Row 1 -->
     <tr>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" alt="HTML" width="45" height="45" />
+        <img src="<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
+<path fill="#E65100" d="M41,5H7l3,34l14,4l14-4L41,5L41,5z"></path><path fill="#FF6D00" d="M24 8L24 39.9 35.2 36.7 37.7 8z"></path><path fill="#FFF" d="M24,25v-4h8.6l-0.7,11.5L24,35.1v-4.2l4.1-1.4l0.3-4.5H24z M32.9,17l0.3-4H24v4H32.9z"></path><path fill="#EEE" d="M24,30.9v4.2l-7.9-2.6L15.7,27h4l0.2,2.5L24,30.9z M19.1,17H24v-4h-9.1l0.7,12H24v-4h-4.6L19.1,17z"></path>
+</svg>" alt="HTML" width="45" height="45" />
         <br>HTML
       </td>
       <td align="center" width="100">
@@ -63,7 +65,9 @@
         <br>CSS
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" alt="JavaScript" width="45" height="45" />
+        <img src="<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
+<path fill="#ffd600" d="M6,42V6h36v36H6z"></path><path fill="none" stroke="#000001" stroke-miterlimit="10" stroke-width="3.3" d="M23.783,22.352v9.819 c0,3.764-4.38,4.022-6.283,0.802"></path><path fill="none" stroke="#000001" stroke-miterlimit="10" stroke-width="3.3" d="M34.69,25.343 c-1.739-2.727-5.674-2.345-5.84,0.558c-0.214,3.757,6.768,2.938,6.247,7.107c-0.365,2.92-4.874,3.858-7.193-0.065"></path>
+</svg>" alt="JavaScript" width="45" height="45" />
         <br>JavaScript
       </td>
       <td align="center" width="100">
