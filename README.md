@@ -1,25 +1,20 @@
-<h1 align="center">
-  <samp>Securing the digital world, one packet at a time</samp> 
-  <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/mario_hello_big.gif" width="22px" height="22px"> 
-</h1>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<h1 align="center"><samp>Securing the digital world, one packet at a time</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/mario_hello_big.gif" width="22px" height="22px"> </h1>
 
 <h2 align="center"><samp>Hi 👋 I'm William </samp></h2>
 <h3 align="center"><samp>A Cybersecurity Enthusiast </samp> </h3>
 
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div style="margin-bottom: 200px;"></div>
 
-<samp>- 📫 Reach me at https://www.linkedin.com/in/william-s-744a19262/</samp>  
-<samp>- 📫 Reach me at williamgiftson18@gmail.com</samp>  
-<samp>- 🛡️ Security Enthusiast: Working on building secure and efficient software 🔐</samp>  
-<samp>- 💻 Passionate about coding and tackling cybersecurity challenges.</samp>  
+<samp>- 📫 Reach me at https://www.linkedin.com/in/william-s-744a19262/</samp>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<samp>- 📫 Reach me at williamgiftson18@gmail.com</samp>
+
+<samp>- 🛡️ Security Enthusiast: Working on building secure and efficient software 🔐</samp>
+
+<samp>- 💻 Passionate about coding and tackling cybersecurity challenges.</samp>
 
 <h3 align="center"><samp>Connect</samp></h3>
 <div style="display: flex; align-items: flex-start; justify-content: center;">
@@ -46,8 +41,6 @@
     </tr>
   </table>
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <h3 align="center"><samp>Languages and Tools</samp></h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
@@ -90,10 +83,35 @@
         <br>Metasploit
       </td>
     </tr>
+    <!-- Row 3 -->
+    <tr>
+      <td align="center" width="100">
+        <img src="https://github.com/bwks/vendor-icons-svg/blob/master/nmap-logo.svg?raw=true" alt="Nmap" width="45" height="45" />
+        <br>Nmap
+      </td>
+      <td align="center" width="100">
+        <img src="https://github.com/bwks/vendor-icons-svg/blob/master/wireshark.svg?raw=true" alt="Wireshark" width="45" height="45" />
+        <br>Wireshark
+      </td>
+      <td align="center" width="100">
+        <img src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" alt="Burp Suite" width="45" height="45" />
+        <br>Burp Suite
+      </td>
+      <td align="center" width="100">
+        <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="Hydra" width="45" height="45" />
+        <br>Hydra
+      </td>
+    </tr>
+    <!-- Row 4 -->
+    <tr>
+      <td align="center" width="100">
+        <img src="https://github.com/bwks/vendor-icons-svg/blob/master/windows-generic.svg?raw=true" alt="Windows" width="45" height="45" />
+        <br>Windows
+      </td>
+    </tr>
   </table>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <h3 align="center"><samp>📟 GitHub Stats</samp></h3>
 <div style="display: flex; justify-content: space-between; align-items: stretch;">
@@ -101,7 +119,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sugith10&show_icons=true&locale=en&layout=compact&langs_count=6&hide=TeX&theme=github_dark" alt="WLiam18 Top Languages" width="48%" height="200" style="object-fit: cover;"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<div style="margin-bottom: 60px;"></div>
 
 <h3 align="center"><samp>✍️ Random Dev Quote</samp></h3>
 <div>
