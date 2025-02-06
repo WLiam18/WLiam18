@@ -1,3 +1,6 @@
+Got it! Here's the updated version where all tools are mixed, with related ones grouped closer to each other:
+
+
 <h1 align="center"><samp>Securing the digital world, one packet at a time</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/mario_hello_big.gif" width="22px" height="22px"></h1><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <h2 align="center"><samp>Hi 👋 I'm William </samp></h2>
@@ -48,7 +51,7 @@
 <h3 align="center"><samp>Languages and Tools</samp></h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <table align="center">
-    <!-- Row 1 -->
+    <!-- Web Development tools -->
     <tr>
       <td align="center" width="100">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="45" height="45" />
@@ -67,7 +70,7 @@
         <br>Git
       </td>
     </tr>
-    <!-- Row 2 -->
+    <!-- Development and Database tools -->
     <tr>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
@@ -78,6 +81,17 @@
         <br>SQL
       </td>
       <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/sugith10/images/main/gif/python-logo.gif" alt="Python" width="45" height="45" />
+        <br>Python
+      </td>
+      <td align="center" width="100">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Mongodb-logo-1.svg" alt="MongoDB" width="45" height="45" />
+        <br>MongoDB
+      </td>
+    </tr>
+    <!-- Cybersecurity tools -->
+    <tr>
+      <td align="center" width="100">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apple-Light.svg?raw=true" alt="Apple" width="45" height="45" />
         <br>Apple
       </td>
@@ -85,9 +99,6 @@
         <img src="https://img.icons8.com/?size=192&id=PW0ChfedZvTh&format=png" alt="Metasploit" width="45" height="45" />
         <br>Metasploit
       </td>
-    </tr>
-    <!-- Row 3 -->
-    <tr>
       <td align="center" width="100">
         <img src="https://github.com/bwks/vendor-icons-svg/blob/master/nmap-logo.svg?raw=true" alt="Nmap" width="45" height="45" />
         <br>Nmap
@@ -96,6 +107,8 @@
         <img src="https://github.com/bwks/vendor-icons-svg/blob/master/wireshark.svg?raw=true" alt="Wireshark" width="45" height="45" />
         <br>Wireshark
       </td>
+    </tr>
+    <tr>
       <td align="center" width="100">
         <img src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" alt="Burp Suite" width="45" height="45" />
         <br>Burp Suite
@@ -104,12 +117,9 @@
         <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="Hydra" width="45" height="45" />
         <br>Hydra
       </td>
-    </tr>
-    <!-- Row 4 -->
-    <tr>
       <td align="center" width="100">
-        <img src="https://github.com/bwks/vendor-icons-svg/blob/master/windows-generic.svg?raw=true" alt="Windows" width="45" height="45" />
-        <br>Windows
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_logo.png" alt="Linux" width="45" height="45" />
+        <br>Linux
       </td>
     </tr>
   </table>
@@ -131,3 +141,5 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+
