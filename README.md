@@ -48,7 +48,7 @@
 <h3 align="center"><samp>Languages and Tools</samp></h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <table align="center">
-    <!-- Web Development -->
+    <!-- Row 1 -->
     <tr>
       <td align="center" width="100">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="45" height="45" />
@@ -63,37 +63,31 @@
         <br>JavaScript
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="45" height="45" />
-        <br>PHP
-      </td>
-    </tr>
-
-  
-    <tr>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" height="45" />
-        <br>Python
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="45" height="45" />
-        <br>Bash
-      </td>
-      <td align="center" width="100">
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="45" height="45" />
         <br>Git
       </td>
+    </tr>
+    <!-- Row 2 -->
+    <tr>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
         <br>GitHub
       </td>
-    </tr>
-
-    <!-- Security Tools -->
-    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" height="45" />
+        <br>SQL
+      </td>
+      <td align="center" width="100">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apple-Light.svg?raw=true" alt="Apple" width="45" height="45" />
+        <br>Apple
+      </td>
       <td align="center" width="100">
         <img src="https://img.icons8.com/?size=192&id=PW0ChfedZvTh&format=png" alt="Metasploit" width="45" height="45" />
         <br>Metasploit
       </td>
+    </tr>
+    <!-- Row 3 -->
+    <tr>
       <td align="center" width="100">
         <img src="https://github.com/bwks/vendor-icons-svg/blob/master/nmap-logo.svg?raw=true" alt="Nmap" width="45" height="45" />
         <br>Nmap
@@ -106,65 +100,16 @@
         <img src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" alt="Burp Suite" width="45" height="45" />
         <br>Burp Suite
       </td>
-    </tr>
-
-    <!-- More Security Tools -->
-    <tr>
       <td align="center" width="100">
         <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="Hydra" width="45" height="45" />
         <br>Hydra
       </td>
-      <td align="center" width="100">
-        <img src="https://www.kali.org/tools/john/images/john-logo.svg" alt="John" width="45" height="45" />
-        <br>John
-      </td>
-      <td align="center" width="100">
-        <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="SQLMap" width="45" height="45" />
-        <br>SQLMap
-      </td>
-      <td align="center" width="100">
-        <img src="https://avatars.githubusercontent.com/u/34743864" alt="Bloodhound" width="45" height="45" />
-        <br>Bloodhound
-      </td>
     </tr>
-
-    
+    <!-- Row 4 -->
     <tr>
-      <td align="center" width="100">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apple-Light.svg?raw=true" alt="Apple" width="45" height="45" />
-        <br>Apple
-      </td>
       <td align="center" width="100">
         <img src="https://github.com/bwks/vendor-icons-svg/blob/master/windows-generic.svg?raw=true" alt="Windows" width="45" height="45" />
         <br>Windows
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="45" height="45" />
-        <br>Linux
-      </td>
-      <td align="center" width="100">
-        <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali" width="45" height="45" />
-        <br>Kali Linux
-      </td>
-    </tr>
-
-    <!-- Databases & Cloud -->
-    <tr>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" height="45" />
-        <br>SQL
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="45" height="45" />
-        <br>MongoDB
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="45" height="45" />
-        <br>AWS
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="45" height="45" />
-        <br>Docker
       </td>
     </tr>
   </table>
