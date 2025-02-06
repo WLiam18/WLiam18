@@ -70,7 +70,7 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <table align="center">
-    <!-- Row 1 -->
+    <!-- Programming Languages -->
     <tr>
       <td align="center" width="100">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="45" height="45" />
@@ -85,8 +85,46 @@
         <br>JavaScript
       </td>
       <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45" />
+        <br>Python
+      </td>
+    </tr>
+    <!-- Cybersecurity & Hacking -->
+    <tr>
+      <td align="center" width="100">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Kali_Linux_2.0_wordmark.svg" alt="Kali Linux" width="45" height="45" />
+        <br>Kali Linux
+      </td>
+      <td align="center" width="100">
+        <img src="https://www.logo.wine/a/logo/Burp_Suite/Burp_Suite-Logo.wine.svg" alt="Burp Suite" width="45" height="45" />
+        <br>Burp Suite
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45" />
+        <br>Linux
+      </td>
+      <td align="center" width="100">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Nmap_logo.png" alt="Nmap" width="45" height="45" />
+        <br>Nmap
+      </td>
+    </tr>
+    <!-- DevOps & Version Control -->
+    <tr>
+      <td align="center" width="100">
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="45" height="45" />
         <br>Git
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45" />
+        <br>GitHub
+      </td>
+      <td align="center" width="100">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tmux_logo.svg" alt="Tmux" width="45" height="45" />
+        <br>Tmux
+      </td>
+      <td align="center" width="100">
+        <img src="https://www.svgrepo.com/show/349342/bash.svg" alt="Bash" width="45" height="45" />
+        <br>Bash
       </td>
     </tr>
   </table>
@@ -118,4 +156,3 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" />
 </div>
 
-<div style="margin-bottom: 60px;"></div>
