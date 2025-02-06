@@ -57,7 +57,7 @@
         <br>CSS
       </td>
       <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/JavaScript-logo.png" alt="JavaScript" width="45" height="45" />
+        <img src="[https://upload.wikimedia.org/wikipedia/commons/6/61/JavaScript-logo.png](https://techstack-generator.vercel.app/js-icon.svg)" alt="JavaScript" width="45" height="45" />
         <br>JavaScript
       </td>
       <td align="center" width="100">
