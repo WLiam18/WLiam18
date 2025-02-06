@@ -72,7 +72,7 @@
         <br>GitHub
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mysql.svg" alt="MySQL" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" height="45" />
         <br>SQL
       </td>
       <td align="center" width="100">
@@ -80,7 +80,7 @@
         <br>Apple
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/metasploit.svg" alt="Metasploit" width="45" height="45" />
+        <img src="https://img.icons8.com/?size=192&id=PW0ChfedZvTh&format=png" alt="Metasploit" width="45" height="45" />
         <br>Metasploit
       </td>
     </tr>
