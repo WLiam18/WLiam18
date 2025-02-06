@@ -109,15 +109,6 @@
         <img src="https://github.com/bwks/vendor-icons-svg/blob/master/windows-generic.svg?raw=true" alt="Windows" width="45" height="45" />
         <br>Windows
       </td>
-      <td align="center" width="100">
-        <!-- Empty cell if you don't need another tool -->
-      </td>
-      <td align="center" width="100">
-        <!-- Empty cell if you don't need another tool -->
-      </td>
-      <td align="center" width="100">
-        <!-- Empty cell if you don't need another tool -->
-      </td>
     </tr>
   </table>
 </div>
