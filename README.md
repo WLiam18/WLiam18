@@ -8,6 +8,8 @@
 
 
 <div style="margin-bottom: 200px;"></div>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 
 <samp>- 📫 Reach me at https://www.linkedin.com/in/william-s-744a19262/</samp>
 
@@ -16,6 +18,8 @@
 <samp>- 🛡️ Security Enthusiast: Working on building secure and efficient software 🔐</samp>
 
 <samp>- 💻 Passionate about coding and tackling cybersecurity challenges.</samp>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 
 <h3 align="center"><samp>Connect</samp></h3>
 <div style="display: flex; align-items: flex-start; justify-content: center;">
