@@ -14,7 +14,6 @@
 
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sugith10&label=Profile%20views&color=0e75b6&style=flat" alt="sugith10" /> </p>
 
 <div style="margin-bottom: 200px;"></div>
 
@@ -44,7 +43,7 @@
       </td>
       <td align="center" width="100">
         <a href="https://tryhackme.com/p/WilliamGiftson" target="_blank">
-          <img src="https://skillicons.dev/icons?i=tryhackme" alt="TryHackMe" width="45" height="45" />
+          <img src="https://files.svgcdn.io/simple-icons/tryhackme.svg" alt="TryHackMe" width="45" height="45" />
         </a>
         <br>TryHackMe
       </td>
