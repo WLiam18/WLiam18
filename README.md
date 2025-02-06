@@ -1,4 +1,5 @@
 <h1 align="center"><samp>Securing the digital world, one packet at a time</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/mario_hello_big.gif" width="22px" height="22px"> </h1>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <h2 align="center"><samp>Hi 👋 I'm William </samp></h2>
@@ -6,10 +7,7 @@
 
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
-
-<div style="margin-bottom: 200px;"></div>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
 
 <samp>- 📫 Reach me at https://www.linkedin.com/in/william-s-744a19262/</samp>
 
@@ -18,8 +16,8 @@
 <samp>- 🛡️ Security Enthusiast: Working on building secure and efficient software 🔐</samp>
 
 <samp>- 💻 Passionate about coding and tackling cybersecurity challenges.</samp>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <h3 align="center"><samp>Connect</samp></h3>
 <div style="display: flex; align-items: flex-start; justify-content: center;">
@@ -46,6 +44,8 @@
     </tr>
   </table>
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <h3 align="center"><samp>Languages and Tools</samp></h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
@@ -117,6 +117,7 @@
   </table>
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <h3 align="center"><samp>📟 GitHub Stats</samp></h3>
 <div style="display: flex; justify-content: space-between; align-items: stretch;">
@@ -124,9 +125,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sugith10&show_icons=true&locale=en&layout=compact&langs_count=6&hide=TeX&theme=github_dark" alt="WLiam18 Top Languages" width="48%" height="200" style="object-fit: cover;"/>
 </div>
 
-<div style="margin-bottom: 60px;"></div>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <h3 align="center"><samp>✍️ Random Dev Quote</samp></h3>
 <div>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" />
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
