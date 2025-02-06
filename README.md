@@ -49,7 +49,7 @@
     <!-- Row 1 -->
     <tr>
       <td align="center" width="100">
-        <img src="[61/HTML5_logo_and_wordmark.svg)](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)" alt="HTML" width="45" height="45" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="45" height="45" />
         <br>HTML
       </td>
       <td align="center" width="100">
@@ -112,6 +112,7 @@
     </tr>
   </table>
 </div>
+
 
 <h3 align="center"><samp>📟 GitHub Stats</samp></h3>
 <div style="display: flex; justify-content: space-between; align-items: stretch;">
