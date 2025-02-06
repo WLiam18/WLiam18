@@ -61,14 +61,14 @@
         <br>JavaScript
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/git.svg" alt="Git" width="45" height="45" />
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="45" height="45" />
         <br>Git
       </td>
     </tr>
     <!-- Row 2 -->
     <tr>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" alt="GitHub" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
         <br>GitHub
       </td>
       <td align="center" width="100">
