@@ -1,11 +1,10 @@
-<h1 align="center"><samp>Securing the digital world, one packet at a time</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> </h1>
+<h1 align="center"><samp>Securing the digital world, one packet at a time</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/mario_hello_big.gif" width="22px" height="22px"> </h1>
 
 <h2 align="center"><samp>Hi 👋 I'm William </samp></h2>
 <h3 align="center"><samp>A Cybersecurity Enthusiast </samp> </h3>
 
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sugith10&label=Profile%20views&color=0e75b6&style=flat" alt="sugith10" /> </p>
 
 <div style="margin-bottom: 200px;"></div>
 
