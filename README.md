@@ -117,7 +117,7 @@
 <h3 align="center"><samp>📟 GitHub Stats</samp></h3>
 <div style="display: flex; justify-content: space-between; align-items: stretch;">
   <!-- Top Languages Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WLiam18&show_icons=true&locale=en&layout=compact&langs_count=6&hide=TeX&theme=github_dark" alt="WLiam18 Top Languages" width="48%" height="200" style="object-fit: cover;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sugith10&show_icons=true&locale=en&layout=compact&langs_count=6&hide=TeX&theme=github_dark" alt="WLiam18 Top Languages" width="48%" height="200" style="object-fit: cover;"/>
 </div>
 
 <div style="margin-bottom: 60px;"></div>
