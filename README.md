@@ -95,7 +95,7 @@
         <br>Wireshark
       </td>
       <td align="center" width="100">
-        <img src="https://www.streamlinehq.com/icons/download/burpsuite--31088?raw=true" alt="Burp Suite" width="45" height="45" />
+        <img src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" alt="Burp Suite" width="45" height="45" />
         <br>Burp Suite
       </td>
       <td align="center" width="100">
