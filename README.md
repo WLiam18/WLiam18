@@ -1,4 +1,5 @@
 <h1 align="center"><samp>Securing the digital world, one packet at a time</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/mario_hello_big.gif" width="22px" height="22px"> </h1>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <h2 align="center"><samp>Hi 👋 I'm William </samp></h2>
 <h3 align="center"><samp>A Cybersecurity Enthusiast </samp> </h3>
