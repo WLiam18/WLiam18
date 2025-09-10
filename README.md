@@ -40,8 +40,6 @@
   <br>TryHackMe
 </td>
 
-      </td>
-    </tr>
   </table>
 </div>
 
