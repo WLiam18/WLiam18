@@ -34,7 +34,7 @@
         <br>Leetcode
       </td>
       <td align="center" width="100">
-        <a href="https://tryhackme.com/p/WilliamGiftson" target="_blank">
+        <a href="" target="_blank">
           <img src="https://yt3.googleusercontent.com/2M3WiTvqDBIjd2AneqZ8CapyD9FL6NU9s2TIqiDliUujGPBhaTcHxFVRJQl8DLBjKL3T6NOJsg=s900-c-k-c0x00ffffff-no-rj" alt="TryHackMe" width="45" height="45" />
 <br>TryHackMe
 
