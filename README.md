@@ -120,7 +120,7 @@
 <h3 align="center"><samp>📟 GitHub Stats</samp></h3>
 <div style="display: flex; justify-content: space-between; align-items: stretch;">
   <!-- Top Languages Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sugith10&show_icons=true&locale=en&layout=compact&langs_count=6&hide=TeX&theme=github_dark" alt="WLiam18 Top Languages" width="48%" height="200" style="object-fit: cover;"/>
+![WLiam18's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WLiam18&theme=dark&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
