@@ -19,27 +19,25 @@
   <table align="center">
     <tr>
       <td align="center" width="100">
-        <a href="https://www.linkedin.com/in/william-s-744a19262/" target="_blank">
+        <a href="https://www.linkedin.com/in/william-s-744a19262/" target="_blank" style="text-decoration: none; color: inherit;">
           <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45" />
+          <br>LinkedIn
         </a>
-        <br>LinkedIn
       </td>
-            <td align="center" width="100">
-        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+      <td align="center" width="100">
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" style="text-decoration: none; color: inherit;">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" width="45" height="45" />
           <br>Leetcode
         </a>
-       </td>
-        </a>
-       </td>
+      </td>
       <td align="center" width="100">
-        <a href="https://tryhackme.com" target="_blank">
+        <a href="https://tryhackme.com" target="_blank" style="text-decoration: none; color: inherit;">
           <img src="https://yt3.googleusercontent.com/2M3WiTvqDBIjd2AneqZ8CapyD9FL6NU9s2TIqiDliUujGPBhaTcHxFVRJQl8DLBjKL3T6NOJsg=s900-c-k-c0x00ffffff-no-rj" alt="TryHackMe" width="45" height="45" />
+          <br>TryHackMe
         </a>
-        <br>TryHackMe
-       </td>
+      </td>
     </tr>
-  </table>
+  </td>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
