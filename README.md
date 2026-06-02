@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <h2 align="center"><samp>Hi 👋 I'm William </samp></h2>
-<h3 align="center"><samp>Software Engineer • Security Researcher • DevSecOps </samp> </h3>
+<h3 align="center"><samp>Software & Cybersecurity Enthusiast </samp> </h3>
 
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
@@ -13,8 +13,6 @@
 <samp>- 🛡️ Building secure systems with clean code — security isn't an afterthought, it's a feature.</samp>
 
 <samp>- 💻 Full-stack dev • Low-level tinkerer • CTF player</samp>
-
-<samp>- 🔐 DevSecOps mindset: shifting security left, shipping confidently.</samp>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
@@ -56,10 +54,10 @@
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="45" height="45"/><br>JavaScript</td>
     </tr>
     <tr>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=spring" width="45" height="45"/><br>Spring Boot</td>
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=django" width="45" height="45"/><br>Django</td>
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=dotnet" width="45" height="45"/><br>.NET</td>
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="45" height="45"/><br>React</td>
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=flask" width="45" height="45"/><br>Flask</td>
     </tr>
   </table>
 </div>
@@ -71,11 +69,11 @@
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgres" width="45" height="45"/><br>PostgreSQL</td>
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45"/><br>MySQL</td>
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45"/><br>MongoDB</td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=redis" width="45" height="45"/><br>Redis</td>
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker" width="45" height="45"/><br>Docker</td>
     </tr>
     <tr>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker" width="45" height="45"/><br>Docker</td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45"/><br>K8s</td>
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=aws" width="45" height="45"/><br>AWS</td>
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=azure" width="45" height="45"/><br>Azure</td>
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="45" height="45"/><br>Git</td>
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=github" width="45" height="45"/><br>GitHub</td>
     </tr>
@@ -98,13 +96,6 @@
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=apple" width="45" height="45"/><br>macOS</td>
     </tr>
   </table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<h3 align="center"><samp>📈 GitHub Analytics</samp></h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WLiam18&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="WLiam18's Top Languages" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
