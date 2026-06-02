@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <h2 align="center"><samp>Hi 👋 I'm William </samp></h2>
-<h3 align="center"><samp>Software Engineer • Security Researcher • DevSecOps </samp> </h3>
+<h3 align="center"><samp>CS Graduate • Security Enthusiast • Builder </samp> </h3>
 
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
@@ -10,9 +10,11 @@
 
 <samp>- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/william-s-744a19262/) • williamgiftson18@gmail.com</samp>
 
-<samp>- 🛡️ Building secure systems with clean code — security isn't an afterthought, it's a feature.</samp>
+<samp>- 🛡️ Security & software development — writing code that's both functional and hardened.</samp>
 
-<samp>- 💻 Full-stack dev • Low-level tinkerer • CTF player</samp>
+<samp>- 💻 Fresh out of college, hungry to build and break things (responsibly).</samp>
+
+<samp>- 🔐 Always learning: web app pentesting, secure coding, and low-level systems.</samp>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
@@ -39,7 +41,7 @@
         <br>TryHackMe
        </td>
     </tr>
-  </table>
+   </table>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -59,7 +61,7 @@
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=dotnet" width="45" height="45"/><br>.NET</td>
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="45" height="45"/><br>React</td>
     </tr>
-  </table>
+   </table>
 </div>
 
 <h3 align="center"><samp>🗄️ Databases & Tools</samp></h3>
@@ -73,11 +75,11 @@
     </tr>
     <tr>
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker" width="45" height="45"/><br>Docker</td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45"/><br>K8s</td>
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="45" height="45"/><br>Git</td>
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=github" width="45" height="45"/><br>GitHub</td>
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=linux" width="45" height="45"/><br>Linux</td>
     </tr>
-  </table>
+   </table>
 </div>
 
 <h3 align="center"><samp>🛡️ Security Tooling</samp></h3>
@@ -91,25 +93,18 @@
     </tr>
     <tr>
       <td align="center" width="100"><img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="45" height="45"/><br>Hydra</td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=linux" width="45" height="45"/><br>Linux</td>
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=windows" width="45" height="45"/><br>Windows</td>
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=apple" width="45" height="45"/><br>macOS</td>
+      <td align="center" width="100"></td>
     </tr>
-  </table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<h3 align="center"><samp>📈 GitHub Analytics</samp></h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WLiam18&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="WLiam18's Top Languages" />
+   </table>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <h3 align="center"><samp>✍️ Random Dev Quote</samp></h3>
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+  <img src="https://quotes.deno.dev/random?theme=dark" alt="Random Dev Quote" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
