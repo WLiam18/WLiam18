@@ -14,8 +14,6 @@
 
 <samp>- 💻 Full-stack dev • Low-level tinkerer • CTF player</samp>
 
-<samp>- 🔐 DevSecOps mindset: shifting security left, shipping confidently.</samp>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <h3 align="center"><samp>🌐 Connect</samp></h3>
