@@ -24,12 +24,12 @@
         </a>
         <br>LinkedIn
       </td>
-      <td align="center" width="100">
-        <a href="" target="_blank">
+            <td align="center" width="100">
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" width="45" height="45" />
         </a>
         <br>Leetcode
-      </td>
+       </td>
       <td align="center" width="100">
         <a href="https://tryhackme.com" target="_blank">
           <img src="https://yt3.googleusercontent.com/2M3WiTvqDBIjd2AneqZ8CapyD9FL6NU9s2TIqiDliUujGPBhaTcHxFVRJQl8DLBjKL3T6NOJsg=s900-c-k-c0x00ffffff-no-rj" alt="TryHackMe" width="45" height="45" />
