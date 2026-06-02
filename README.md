@@ -25,9 +25,11 @@
         <br>LinkedIn
       </td>
             <td align="center" width="100">
-        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" width="45" height="45" />
           <br>Leetcode
+        </a>
+       </td>
         </a>
        </td>
       <td align="center" width="100">
