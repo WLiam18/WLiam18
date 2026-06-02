@@ -37,7 +37,7 @@
         </a>
       </td>
     </tr>
-  </td>
+   </table>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -57,7 +57,7 @@
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="45" height="45"/><br>React</td>
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=flask" width="45" height="45"/><br>Flask</td>
     </tr>
-  </table>
+   </table>
 </div>
 
 <h3 align="center"><samp>🗄️ Databases & Tools</samp></h3>
@@ -75,7 +75,7 @@
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="45" height="45"/><br>Git</td>
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=github" width="45" height="45"/><br>GitHub</td>
     </tr>
-  </table>
+   </table>
 </div>
 
 <h3 align="center"><samp>🛡️ Security Tooling</samp></h3>
@@ -91,7 +91,7 @@
       <td align="center" width="100"><img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="45" height="45"/><br>Hydra</td>
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=linux" width="45" height="45"/><br>Linux</td>
     </tr>
-  </table>
+   </table>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
