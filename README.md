@@ -92,8 +92,6 @@
     <tr>
       <td align="center" width="100"><img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="45" height="45"/><br>Hydra</td>
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=linux" width="45" height="45"/><br>Linux</td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=windows" width="45" height="45"/><br>Windows</td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=apple" width="45" height="45"/><br>macOS</td>
     </tr>
   </table>
 </div>
